@@ -1,0 +1,21 @@
+# phpstorm project files
+.idea
+
+# temporary files (for example MySQL Workbench)
+*.bak
+
+# windows thumbnail cache
+Thumbs.db
+
+# composer itself is not needed
+composer.phar
+
+# Mac DS_Store Files
+.DS_Store
+
+*.log
+
+/log
+/vendor
+/www/bitrix
+/www/upload
